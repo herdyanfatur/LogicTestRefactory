@@ -9,19 +9,6 @@ for (var i = 1; i <= 7; i++) {
     console.log(i + a);
 }
 
-//nomor 2
-
-const arr1 = [1,2,33,44,55,33,44,22,44,33,2,77,66,1,2,3,4,5,6,7,89,3,3,8,9,75,4,3,2,2,1,3];
- 
-function groupingArray(cetak, arr1) {
-    for (let i = 0; i < cetak.length; i++) {
-        for(let j = i + j; j < arr.length; j++){
-            if(arr1[i] == arr1[j]) {
-                console.log(arr1[j])
-            }
-        }
-    }
-}
 
 
 //soal no 2
